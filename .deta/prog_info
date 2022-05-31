@@ -1,0 +1,1 @@
+{"id":"4eaf65ef-549d-4846-b90b-a0ea2f3431ea","space":23320,"runtime":"python3.9","name":"eia_site_fast_apiv2","path":"smn7ok","project":"b03mwumr","account":"144798365827","region":"sa-east-1","deps":["fastapi","mysql-connector"],"envs":null,"public":true,"log_level":"debug","cron":""}
